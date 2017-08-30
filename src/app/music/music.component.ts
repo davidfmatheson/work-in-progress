@@ -8,21 +8,21 @@ const MUSICS: Music[] = [
       song: 'same-drugs',
       header: 'Chance The Rapper - Same Drugs',
       title: '"You were always perfect, and I was only practice"',
-      text: 'What if you realized, early on, that I was just practice? I\'m sure that there are funny software developers out there who can also remember the kids\' appointments, and are expert gift-givers. I came to you emotionally undercooked 16 years ago, and you could have taken your talents elsewhere any time in those first 5 years. I hear this song and feel relieved that we still do the same drugs.',
+      text: 'What if you realized, early on, that I was just practice? I\'m sure that there are funny software developers out there who can also remember the kids\' appointments, and are expert gift-givers. I came to you emotionally undercooked 16 years ago, and you could have taken your talents elsewhere any time in those first 5 years. How do people fall in love in their 20s and stay in love in their 40s and beyond? Maybe we\'re gifted, or persistent, or maybe we\'re lucky. Regardless, I hear this song and feel relieved that we still do the same drugs. ',
       spotifyEmbed: 'https://open.spotify.com/embed/track/6m9qPYXmhge2QhBLfFKnVF'
     },
     {
       song: 'come-down-now',
       header: 'Passing Strange Ensemble - Come Down Now',
       title: '"I\'ve been thinking about leaving / My fingerprints on your being / It\'s like church now"',
-      text: 'My god, I get so weepy during this number. It\'s the best articulation of the impact you have on me. There\'s a religious imprinting that has happened, some sort of brain-rewiring that causes me to talk, and act, and behave in a way that is infused with empathy.',
+      text: 'My god, I get so weepy during this number. I don\'t think that I even listened to musicals before I met you. I mean, what use is a musical form that communicates directly with mankind\'s heart, anyway? This is the best articulation of the impact you have on me. There\'s a religious imprinting that has happened, some sort of brain-rewiring that causes me to talk, and act, and behave in a way that is infused with empathy. ',
       spotifyEmbed: 'https://open.spotify.com/embed/track/3eMV1Uifvr9ok9D87m2Vnp'
     },
     {
       song: 'game-shows',
       header: 'The Mountain Goats - Game Shows Touch Our Lives',
       title: '"Shadows crawled across the living room\'s length / I held on to you with a desperate strength"',
-      text: 'I have this vision of lounging around Saturday afternoons and wrestling you to stay on the couch with me, to do nothing together. This is really about building a decades-long relationship, though. Every day you renew my desperation.',
+      text: 'I have this vision of lounging around Saturday afternoons and wrestling you to stay on the couch with me, to do nothing together. I just want to sit, and be in your presence, listening to music that. This is really about building a decades-long relationship, though, and I think that requires a desperate strength. Every day you renew my desperation.',
       spotifyEmbed: 'https://open.spotify.com/embed/track/6GbOE6jRrtTuFVOz4gaHKz'
     },
     {
